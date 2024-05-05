@@ -1,7 +1,7 @@
 server:
   port: 8060
 
-eureka:
+eurekaserver:
   instance:
     hostname: localhost
   client:
