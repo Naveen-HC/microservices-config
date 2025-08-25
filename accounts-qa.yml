@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to NaviBank accounts QA related APIs"
+  message: "Welcome to Navi-Digital-Bank accounts QA related APIs"
   contactDetails:
     name: "Asha"
     email: "asha@gmail.com"
